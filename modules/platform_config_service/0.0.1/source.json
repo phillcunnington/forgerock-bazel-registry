@@ -1,5 +1,5 @@
 {
-    "url": "https://github.com/phill-cunnington_pingcorp/platform-config-service/releases/download/v0.0.1/platform-config-service-0.0.1.tar.gz",
-    "integrity": "sha256-1ps/MsDwUwAoEW6n1AFDngyFqnCQ+86xghsrfeppYdM=",
+    "url": "https://github.com/ping-rocks/platform-config-service/releases/download/v0.0.1/platform-config-service-0.0.1.tar.gz",
+    "integrity": "sha256-1NEK2VbNZolMyiVOfovv+JxRcYBWo3YB9+lrfHG0Xxs=",
     "strip_prefix": "platform-config-service-0.0.1"
 }
