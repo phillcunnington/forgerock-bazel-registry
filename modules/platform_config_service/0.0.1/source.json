@@ -1,5 +1,6 @@
 {
     "url": "https://api.github.com/repos/ping-rocks/platform-config-service/releases/assets/359275014?archive.tar.gz",
     "integrity": "sha256-Rc2mR5iI4OYAH7vbmX+DnMUhl8IK3RpTzis07mglzd4=",
-    "strip_prefix": "platform-config-service-0.0.1"
+    "strip_prefix": "platform-config-service-0.0.1",
+    "type": "tar.gz"
 }
