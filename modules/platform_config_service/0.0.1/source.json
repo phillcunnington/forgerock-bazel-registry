@@ -1,5 +1,5 @@
 {
-    "url": "https://api.github.com/repos/ping-rocks/platform-config-service/tarball/f7801eae648ac2e4ec587647b659a12665404133",
-    "integrity": "sha256-Q2+BRwKNyDmBxbztq5yK9YVIzJaf/DnQQ+rrF0xUp+4=",
-    "strip_prefix": "ping-rocks-platform-config-service-f7801eae648ac2e4ec587647b659a12665404133"
+    "url": "https://github.com/phill-cunnington_pingcorp/platform-config-service/releases/download/v0.0.1/platform-config-service-0.0.1.tar.gz",
+    "integrity": "sha256-1ps/MsDwUwAoEW6n1AFDngyFqnCQ+86xghsrfeppYdM=",
+    "strip_prefix": "platform-config-service-0.0.1"
 }
