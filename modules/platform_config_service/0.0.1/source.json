@@ -1,6 +1,5 @@
 {
-    "url": "https://api.github.com/repos/ping-rocks/platform-config-service/releases/assets/359275014?archive.tar.gz",
-    "integrity": "sha256-Rc2mR5iI4OYAH7vbmX+DnMUhl8IK3RpTzis07mglzd4=",
-    "strip_prefix": "platform-config-service-0.0.1",
-    "archive_type": "tar.gz"
+    "type": "git_repository",
+    "remote": "https://github.com/ping-rocks/platform-config-service.git",
+    "commit": "f33bcf51c56f06f84d948f49ae64b1d274d61ab4"
 }
